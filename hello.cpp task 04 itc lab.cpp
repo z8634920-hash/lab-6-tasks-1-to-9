@@ -2,8 +2,8 @@
 #include <iostream>
 using namespace std;
 
-// Name: Your Name
-// Roll No: Your Roll Number
+// Name: Muhammad Zoraiz Sultan
+// Roll No: 0122
 
 int main()
 {
